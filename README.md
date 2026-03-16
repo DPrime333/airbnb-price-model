@@ -10,7 +10,7 @@ This project combines **K-Means clustering** and **XGBoost regression** to analy
 
 Full presentation slides:
 
-[View the presentation](presentation/Airbnb_Pricing_Presentation.pptx)
+[View the presentation](Presentation/Airbnb_Pricing_Presentation.pptx)
 
 ---
 
